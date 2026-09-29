@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Data Analyst & Software Development | Tableau | Odoo Developer & Consultant | Python | Sql</h3>
 
 - 🔭 I’m currently working on **Meghna Odoo**
-- 
+  
 - 🌱 I’m currently learning **Tableau and Odoo**
 
 - 📫 How to reach me **shakibs@vsoneworld.com**
