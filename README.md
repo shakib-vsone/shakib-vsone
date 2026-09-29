@@ -8,6 +8,7 @@
 - 📫 How to reach me **shakibs@vsoneworld.com**
 
 <h3 align="left">Connect with me: **shakibs@vsoneworld.com**</h3>
+**shakibs@vsoneworld.com**
 <p align="left">
 </p>
 
