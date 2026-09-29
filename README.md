@@ -5,10 +5,9 @@
   
 - 🌱 I’m currently learning **Tableau and Odoo**
 
-- 📫 How to reach me **shakibs@vsoneworld.com**
+- 📫 Reach me **shakibs@vsoneworld.com**
 
-<h3 align="left">Connect with me: **shakibs@vsoneworld.com**</h3>
-**shakibs@vsoneworld.com**
+
 <p align="left">
 </p>
 
